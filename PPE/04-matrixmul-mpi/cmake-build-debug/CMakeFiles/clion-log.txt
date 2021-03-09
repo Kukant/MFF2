@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -D CMAKE_CXX_COMPILER=/usr/local/bin/mpicxx -G "CodeBlocks - Unix Makefiles" /Users/kuky/Desktop/MFF2/PPE/04-matrixmul-mpi
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kuky/Desktop/MFF2/PPE/04-matrixmul-mpi/cmake-build-debug

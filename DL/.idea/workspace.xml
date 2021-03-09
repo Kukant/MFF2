@@ -1,7 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc592c0-7371-49f8-a3ab-6044a3cff65d" name="Default Changelist" comment="" />
+    <list default="true" id="9fc592c0-7371-49f8-a3ab-6044a3cff65d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ATWA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ATWA/css/.idea/start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/kuky.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/02/mnist_training.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/02/sgd_backpropagation.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/03/mnist_ensemble.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/03/mnist_regularization.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/04/image_augmentation.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/04/mnist_cnn.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/04/model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/05/model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/06/cnn_manual.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/07/sequence_classification.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/07/tagger_we.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/08/multiple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/08/speech.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/08/tagger_we.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/08/timit_mfcc.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/09/attncomp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/09/chrislemmacompetition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npfl114/labs/11/baselinedone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/.idea/PPE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/02-levenshtein/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/03-potential/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/04-matrixmul-mpi/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/04-matrixmul-mpi/src/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/04-matrixmul-mpi/src/copy.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/04-matrixmul-mpi/src/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/04-matrixmul-mpi/src/printer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/04-matrixmul-mpi/src/write_utils.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/05-dns-netcore/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ATWA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/.idea/start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/hippo01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/hippo02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/hippo03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/hippo04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/hippo05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/hippo06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/kitten01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/kitten02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/kitten03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/kitten04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/kitten05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/kitten06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/kitten07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/kitten08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/kitten09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/puppy01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/puppy02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/puppy03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/puppy04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/puppy05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/puppy06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/puppy07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/puppy08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/imgs/puppy09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATWA/start/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_mnist_layers_activations/mnist_layers_activations.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_mnist_layers_activations/mnist_layers_activations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/02/mnist_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/02/mnist_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/04/cifar_competition.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/04/cifar_competition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/04/image_augmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/04/image_augmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/04/mnist_cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/04/mnist_cnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/04/tf_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/04/tf_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/05/cags_classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/05/cags_classification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/05/cags_segmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/05/cags_segmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/05/cags_segmentation_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/05/cags_segmentation_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/06/bboxes_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/06/bboxes_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/06/cnn_manual.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/06/cnn_manual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/07/3d_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/07/3d_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/07/sequence_classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/07/sequence_classification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/07/tagger_we.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/07/tagger_we.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/08/mnist_multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/08/mnist_multiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/08/speech_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/08/speech_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/08/tagger_cle_cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/08/tagger_cle_cnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/08/tagger_cle_rnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/08/tagger_cle_rnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/08/tagger_competition.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/08/tagger_competition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/09/lemmatizer_attn.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/09/lemmatizer_attn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/09/lemmatizer_competition.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/09/lemmatizer_competition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/09/lemmatizer_noattn.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/09/lemmatizer_noattn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/10/dcgan.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/10/dcgan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/10/gan.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/10/gan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/10/vae.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/10/vae.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/11/monte_carlo.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/11/monte_carlo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/11/reinforce.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/11/reinforce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/11/reinforce_baseline.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/11/reinforce_baseline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npfl114/labs/11/reinforce_pixels.py" beforeDir="false" afterPath="$PROJECT_DIR$/npfl114/labs/11/reinforce_pixels.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +106,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,32 +127,38 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_mnist_layers_activations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/npfl114/labs/03" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2750243" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/npfl114/labs/08" />
+      <recent name="$PROJECT_DIR$/npfl114/labs/03" />
       <recent name="$PROJECT_DIR$/02_mnist_layers_activations" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/npfl114/labs/03" />
+      <recent name="$PROJECT_DIR$/04_sgd_backpropagation" />
       <recent name="$PROJECT_DIR$/02_mnist_layers_activations" />
       <recent name="$PROJECT_DIR$/03_pca_first" />
       <recent name="$PROJECT_DIR$/01_numpy_entropy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mnist_layers_activations">
-    <configuration name="done" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.lemmatizer_competition">
+    <configuration name="gym_cartpole" type="PythonConfigurationType" factoryName="Python">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,12 +166,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_numpy_entropy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/npfl114/labs/02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_numpy_entropy/done.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/npfl114/labs/02/gym_cartpole.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,29 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mnist_layers_activations" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_mnist_layers_activations" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_mnist_layers_activations/mnist_layers_activations.py" />
-      <option name="PARAMETERS" value="--layers=0 --activation=relu --epochs=1" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="numpy_entropy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lemmatizer_competition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,12 +188,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_numpy_entropy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/npfl114/labs/09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_numpy_entropy/numpy_entropy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/npfl114/labs/09/lemmatizer_competition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +202,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pca_first" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="monte_carlo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/npfl114/labs/11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/npfl114/labs/11/monte_carlo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reinforce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,13 +232,79 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_pca_first" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/npfl114/labs/11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_pca_first/pca_first.py" />
-      <option name="PARAMETERS" value="--examples=1000 --iterations=100" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/npfl114/labs/11/reinforce.py" />
+      <option name="PARAMETERS" value="--recodex" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reinforce_baseline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/npfl114/labs/11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/npfl114/labs/11/reinforce_baseline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reinforce_pixels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/npfl114/labs/11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/npfl114/labs/11/reinforce_pixels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sgd_backpropagation" type="PythonConfigurationType" factoryName="Python">
+      <module name="DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/npfl114/labs/02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/npfl114/labs/02/sgd_backpropagation.py" />
+      <option name="PARAMETERS" value="--batch_size=50 --epochs=5 --hidden_layer=100 --learning_rate=0.2 --seed=42 --threads=1" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -141,38 +313,23 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.done" />
-      <item itemvalue="Python.mnist_layers_activations" />
-      <item itemvalue="Python.numpy_entropy" />
-      <item itemvalue="Python.pca_first" />
+      <item itemvalue="Python.sgd_backpropagation" />
+      <item itemvalue="Python.gym_cartpole" />
+      <item itemvalue="Python.lemmatizer_competition" />
+      <item itemvalue="Python.reinforce" />
+      <item itemvalue="Python.reinforce_baseline" />
+      <item itemvalue="Python.reinforce_pixels" />
+      <item itemvalue="Python.monte_carlo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mnist_layers_activations" />
-        <item itemvalue="Python.pca_first" />
-        <item itemvalue="Python.numpy_entropy" />
-        <item itemvalue="Python.done" />
+        <item itemvalue="Python.lemmatizer_competition" />
+        <item itemvalue="Python.monte_carlo" />
+        <item itemvalue="Python.reinforce_pixels" />
+        <item itemvalue="Python.reinforce_baseline" />
+        <item itemvalue="Python.reinforce" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SbtLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/Google Drive/skola/KMPJ/NPRG014/lecture1105-1203/exercises-homework" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -186,65 +343,160 @@
       <updated>1583582586160</updated>
       <workItem from="1583582589898" duration="14732000" />
       <workItem from="1583602158337" duration="128000" />
+      <workItem from="1584266756254" duration="21731000" />
+      <workItem from="1584302154508" duration="748000" />
+      <workItem from="1584307998226" duration="837000" />
+      <workItem from="1584738399273" duration="4496000" />
+      <workItem from="1584786192475" duration="2996000" />
+      <workItem from="1584798017442" duration="1535000" />
+      <workItem from="1585508241410" duration="9659000" />
+      <workItem from="1585567151182" duration="447000" />
+      <workItem from="1585576307547" duration="12000" />
+      <workItem from="1585589793043" duration="1433000" />
+      <workItem from="1585600902998" duration="1380000" />
+      <workItem from="1585671832836" duration="2373000" />
+      <workItem from="1586083512851" duration="6298000" />
+      <workItem from="1586734926611" duration="3663000" />
+      <workItem from="1587239362225" duration="17181000" />
+      <workItem from="1587570964436" duration="13000" />
+      <workItem from="1587571103294" duration="7412000" />
+      <workItem from="1587764604203" duration="9657000" />
+      <workItem from="1588351594528" duration="4856000" />
+      <workItem from="1588458455586" duration="4675000" />
+      <workItem from="1588694264410" duration="1967000" />
+      <workItem from="1588781415710" duration="32987000" />
+      <workItem from="1589024675200" duration="12659000" />
+      <workItem from="1589064483662" duration="2385000" />
+      <workItem from="1589497196054" duration="5471000" />
+      <workItem from="1589626731239" duration="21366000" />
+      <workItem from="1590323839589" duration="8472000" />
+      <workItem from="1590442110599" duration="598000" />
+      <workItem from="1590499583461" duration="4884000" />
+      <workItem from="1590863428780" duration="6504000" />
+      <workItem from="1591036149631" duration="3183000" />
+      <workItem from="1591626917534" duration="24947000" />
+      <workItem from="1593157884720" duration="14583000" />
+      <workItem from="1593444918871" duration="3316000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583601914038">
+    <state x="-1283" y="-328" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591718143207">
+      <screen x="-1920" y="-423" width="1920" height="1057" />
+    </state>
+    <state x="-1283" y="-328" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1591718143207" />
+    <state x="192" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586086190007" />
+    <state x="295" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1591040298248" />
+    <state x="-1217" y="-86" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591626955693">
+      <screen x="-1920" y="-423" width="1920" height="1057" />
+    </state>
+    <state x="-1217" y="-86" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1591626955693" />
+    <state x="218" y="221" width="1340" height="681" key="#xdebugger.evaluate" timestamp="1590327136175">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="303" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583601914038" />
-    <state x="782" y="140" width="726" height="579" key="#xdebugger.evaluate" timestamp="1583601250113">
+    <state x="412" y="309" width="960" height="649" key="#xdebugger.evaluate/-1920.-423.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1588696158485" />
+    <state x="379" y="114" width="1092" height="521" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1585511919568" />
+    <state x="218" y="221" width="1340" height="681" key="#xdebugger.evaluate/0.23.1680.1027@0.23.1680.1027" timestamp="1590327136175" />
+    <state width="1143" height="466" key="DebuggerActiveHint" timestamp="1589640678420">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="782" y="140" width="726" height="579" key="#xdebugger.evaluate/0.23.1680.1027@0.23.1680.1027" timestamp="1583601250113" />
-    <state width="1638" height="284" key="GridCell.Tab.0.bottom" timestamp="1583601924242">
+    <state width="1143" height="466" key="DebuggerActiveHint/0.23.1680.1027@0.23.1680.1027" timestamp="1589640678420" />
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog" timestamp="1590864105349">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="284" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583601924242" />
-    <state width="1638" height="284" key="GridCell.Tab.0.center" timestamp="1583601924241">
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590864105349" />
+    <state width="1638" height="272" key="GridCell.Tab.0.bottom" timestamp="1593342373184">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="284" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583601924241" />
-    <state width="1638" height="284" key="GridCell.Tab.0.left" timestamp="1583601924241">
+    <state width="1878" height="238" key="GridCell.Tab.0.bottom/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1593185028008" />
+    <state width="1638" height="288" key="GridCell.Tab.0.bottom/-1920.-423.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1591107398907" />
+    <state width="1638" height="206" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586100582589" />
+    <state width="1638" height="272" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1593342373184" />
+    <state width="1638" height="272" key="GridCell.Tab.0.center" timestamp="1593342373184">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="284" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583601924241" />
-    <state width="1638" height="284" key="GridCell.Tab.0.right" timestamp="1583601924241">
+    <state width="1878" height="238" key="GridCell.Tab.0.center/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1593185028007" />
+    <state width="1638" height="288" key="GridCell.Tab.0.center/-1920.-423.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1591107398907" />
+    <state width="1638" height="206" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586100582588" />
+    <state width="1638" height="272" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1593342373184" />
+    <state width="1638" height="272" key="GridCell.Tab.0.left" timestamp="1593342373183">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="284" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583601924241" />
-    <state width="1638" height="284" key="GridCell.Tab.1.bottom" timestamp="1583601924243">
+    <state width="1878" height="238" key="GridCell.Tab.0.left/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1593185028006" />
+    <state width="1638" height="288" key="GridCell.Tab.0.left/-1920.-423.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1591107398906" />
+    <state width="1638" height="206" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586100582587" />
+    <state width="1638" height="272" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1593342373183" />
+    <state width="1638" height="272" key="GridCell.Tab.0.right" timestamp="1593342373184">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="284" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583601924243" />
-    <state width="1638" height="284" key="GridCell.Tab.1.center" timestamp="1583601924242">
+    <state width="1878" height="238" key="GridCell.Tab.0.right/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1593185028007" />
+    <state width="1638" height="288" key="GridCell.Tab.0.right/-1920.-423.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1591107398907" />
+    <state width="1638" height="206" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586100582588" />
+    <state width="1638" height="272" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1593342373184" />
+    <state width="1878" height="308" key="GridCell.Tab.1.bottom" timestamp="1591720219828">
+      <screen x="-1920" y="-423" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="308" key="GridCell.Tab.1.bottom/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1591720219828" />
+    <state width="1064" height="298" key="GridCell.Tab.1.bottom/-1920.-423.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1590392569407" />
+    <state width="1638" height="387" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586085904624" />
+    <state width="1064" height="298" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590329081301" />
+    <state width="1878" height="308" key="GridCell.Tab.1.center" timestamp="1591720219827">
+      <screen x="-1920" y="-423" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="308" key="GridCell.Tab.1.center/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1591720219827" />
+    <state width="1064" height="298" key="GridCell.Tab.1.center/-1920.-423.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1590392569406" />
+    <state width="1638" height="387" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586085904623" />
+    <state width="1064" height="298" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590329081301" />
+    <state width="1878" height="308" key="GridCell.Tab.1.left" timestamp="1591720219827">
+      <screen x="-1920" y="-423" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="308" key="GridCell.Tab.1.left/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1591720219827" />
+    <state width="1064" height="298" key="GridCell.Tab.1.left/-1920.-423.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1590392569406" />
+    <state width="1638" height="387" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586085904622" />
+    <state width="1064" height="298" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590329081300" />
+    <state width="1878" height="308" key="GridCell.Tab.1.right" timestamp="1591720219827">
+      <screen x="-1920" y="-423" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="308" key="GridCell.Tab.1.right/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1591720219827" />
+    <state width="1064" height="298" key="GridCell.Tab.1.right/-1920.-423.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1590392569406" />
+    <state width="1638" height="387" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586085904623" />
+    <state width="1064" height="298" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590329081301" />
+    <state x="377" y="246" key="RollbackChangesDialog" timestamp="1590329791066">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="284" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583601924242" />
-    <state width="1638" height="284" key="GridCell.Tab.1.left" timestamp="1583601924242">
+    <state x="377" y="246" key="RollbackChangesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590329791066" />
+    <state x="328" y="118" key="SettingsEditor" timestamp="1590328156033">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="284" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583601924242" />
-    <state width="1638" height="284" key="GridCell.Tab.1.right" timestamp="1583601924243">
+    <state x="328" y="118" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1590328156033" />
+    <state width="840" height="513" key="XDebugger.FullValuePopup" timestamp="1588462574060">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="284" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583601924243" />
-    <state x="328" y="118" key="SettingsEditor" timestamp="1583582869312">
+    <state width="840" height="513" key="XDebugger.FullValuePopup/0.23.1680.1027@0.23.1680.1027" timestamp="1588462574060" />
+    <state x="537" y="158" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589633707387">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="328" y="118" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1583582869312" />
-    <state width="840" height="513" key="XDebugger.FullValuePopup" timestamp="1583597212635">
+    <state x="537" y="158" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1589633707387" />
+    <state x="-1208" y="27" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591704233305">
+      <screen x="-1920" y="-423" width="1920" height="1057" />
+    </state>
+    <state x="-1208" y="27" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1591704233305" />
+    <state x="623" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027@0.23.1680.1027" timestamp="1589657032899" />
+    <state x="498" y="103" width="847" height="686" key="find.popup" timestamp="1593444934412">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="840" height="513" key="XDebugger.FullValuePopup/0.23.1680.1027@0.23.1680.1027" timestamp="1583597212635" />
-    <state x="623" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583583566892">
+    <state x="-1351" y="-341" width="967" height="706" key="find.popup/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1593187540354" />
+    <state x="498" y="103" width="847" height="686" key="find.popup/-1920.-423.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1593444934412" />
+    <state x="498" y="281" width="683" height="487" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585724439305" />
+    <state x="498" y="103" width="846" height="685" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1591039419307" />
+    <state x="505" y="250" width="671" height="677" key="search.everywhere.popup" timestamp="1593459208824">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="623" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027@0.23.1680.1027" timestamp="1583583566892" />
+    <state x="-1343" y="-189" width="766" height="696" key="search.everywhere.popup/-1920.-423.1920.1057/0.23.1680.1027@-1920.-423.1920.1057" timestamp="1593184727738" />
+    <state x="505" y="250" width="671" height="677" key="search.everywhere.popup/-1920.-423.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1593459208824" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -264,13 +516,148 @@
           <line>65</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/02/sgd_backpropagation.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/02/gym_cartpole.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/03/mnist_ensemble.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/03/uppercase.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/04/mnist_cnn.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/06/bboxes_utils.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/06/cnn_manual.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/07/sequence_classification.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/07/3d_recognition.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/08/mnist_multiple.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/08/tagger_competition.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/08/tagger_competition.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/02/mnist_training.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/02/mnist_training.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/09/lemmatizer_noattn.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/09/lemmatizer_noattn.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/09/lemmatizer_noattn.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/09/lemmatizer_noattn.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/11/reinforce.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/npfl114/labs/11/reinforce.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DL$pca_first.coverage" NAME="pca_first Coverage Results" MODIFIED="1583597961450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_pca_first" />
-    <SUITE FILE_PATH="coverage/DL$numpy_entropy.coverage" NAME="numpy_entropy Coverage Results" MODIFIED="1583594488359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_numpy_entropy" />
-    <SUITE FILE_PATH="coverage/DL$mnist_layers_activations.coverage" NAME="mnist_layers_activations Coverage Results" MODIFIED="1583601915483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_mnist_layers_activations" />
+    <SUITE FILE_PATH="coverage/DL$uppercase.coverage" NAME="uppercase Coverage Results" MODIFIED="1585517930152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/03" />
+    <SUITE FILE_PATH="coverage/DL$image_augmentation.coverage" NAME="image_augmentation Coverage Results" MODIFIED="1586087429867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/04" />
+    <SUITE FILE_PATH="coverage/DL$reinforce_pixels.coverage" NAME="reinforce_pixels Coverage Results" MODIFIED="1593163299062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/11" />
+    <SUITE FILE_PATH="coverage/DL$lemmatizer_attn.coverage" NAME="lemmatizer_attn Coverage Results" MODIFIED="1590331555608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/09" />
+    <SUITE FILE_PATH="coverage/DL$tagger_cle_rnn.coverage" NAME="tagger_cle_rnn Coverage Results" MODIFIED="1589065346551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/08" />
+    <SUITE FILE_PATH="coverage/DL$cifar_competition.coverage" NAME="cifar_competition Coverage Results" MODIFIED="1586100582581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/04" />
+    <SUITE FILE_PATH="coverage/DL$reinforce_baseline.coverage" NAME="reinforce_baseline Coverage Results" MODIFIED="1593161569361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/11" />
+    <SUITE FILE_PATH="coverage/DL$3d_recognition.coverage" NAME="3d_recognition Coverage Results" MODIFIED="1589032175542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/07" />
+    <SUITE FILE_PATH="coverage/DL$speech_recognition.coverage" NAME="speech_recognition Coverage Results" MODIFIED="1590866637356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/08" />
+    <SUITE FILE_PATH="coverage/DL$tagger_competition.coverage" NAME="tagger_competition Coverage Results" MODIFIED="1589640577472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/08" />
+    <SUITE FILE_PATH="coverage/DL$uppercase_eval.coverage" NAME="uppercase_eval Coverage Results" MODIFIED="1585592266299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/03" />
+    <SUITE FILE_PATH="coverage/DL$cnn_manual.coverage" NAME="cnn_manual Coverage Results" MODIFIED="1588953374620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/06" />
+    <SUITE FILE_PATH="coverage/DL$tf_dataset.coverage" NAME="tf_dataset Coverage Results" MODIFIED="1586087978393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/04" />
+    <SUITE FILE_PATH="coverage/DL$dcgan.coverage" NAME="dcgan Coverage Results" MODIFIED="1591628408922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/10" />
+    <SUITE FILE_PATH="coverage/DL$tagger_we.coverage" NAME="tagger_we Coverage Results" MODIFIED="1588963205219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/07" />
+    <SUITE FILE_PATH="coverage/DL$mnist_regularization.coverage" NAME="mnist_regularization Coverage Results" MODIFIED="1584794583859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/03" />
+    <SUITE FILE_PATH="coverage/DL$gym_cartpole.coverage" NAME="gym_cartpole Coverage Results" MODIFIED="1584302302587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/02" />
     <SUITE FILE_PATH="coverage/DL$done.coverage" NAME="done Coverage Results" MODIFIED="1583593671835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_numpy_entropy" />
+    <SUITE FILE_PATH="coverage/DL$cags_classification.coverage" NAME="cags_classification Coverage Results" MODIFIED="1587305323378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/05" />
+    <SUITE FILE_PATH="coverage/DL$mnist_ensemble.coverage" NAME="mnist_ensemble Coverage Results" MODIFIED="1584742926950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/03" />
+    <SUITE FILE_PATH="coverage/DL$gym_cartpole_evaluate.coverage" NAME="gym_cartpole_evaluate Coverage Results" MODIFIED="1584302306936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/02" />
+    <SUITE FILE_PATH="coverage/DL$sequence_classification.coverage" NAME="sequence_classification Coverage Results" MODIFIED="1589029639184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/07" />
+    <SUITE FILE_PATH="coverage/DL$reinforce.coverage" NAME="reinforce Coverage Results" MODIFIED="1593159034815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/11" />
+    <SUITE FILE_PATH="coverage/DL$numpy_entropy.coverage" NAME="numpy_entropy Coverage Results" MODIFIED="1583594488359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_numpy_entropy" />
+    <SUITE FILE_PATH="coverage/DL$mnist_layers_activations.coverage" NAME="mnist_layers_activations Coverage Results" MODIFIED="1584308032689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_mnist_layers_activations" />
+    <SUITE FILE_PATH="coverage/DL$vae.coverage" NAME="vae Coverage Results" MODIFIED="1591698898704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/10" />
+    <SUITE FILE_PATH="coverage/DL$Unittests_for_bboxes_utils_Tests.coverage" NAME="Unittests for bboxes_utils.Tests Coverage Results" MODIFIED="1587776199830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/06" />
+    <SUITE FILE_PATH="coverage/DL$lemmatizer_noattn.coverage" NAME="lemmatizer_noattn Coverage Results" MODIFIED="1590329081287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/09" />
+    <SUITE FILE_PATH="coverage/DL$mnist_cnn.coverage" NAME="mnist_cnn Coverage Results" MODIFIED="1586086736634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/04" />
+    <SUITE FILE_PATH="coverage/DL$sgd_backpropagation.coverage" NAME="sgd_backpropagation Coverage Results" MODIFIED="1584300366498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/02" />
+    <SUITE FILE_PATH="coverage/DL$cags_segmentation.coverage" NAME="cags_segmentation Coverage Results" MODIFIED="1587590137115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/05" />
+    <SUITE FILE_PATH="coverage/DL$Unittests_for_bboxes_utils_Tests_test_bbox_to_from_fast_rcnn.coverage" NAME="Unittests for bboxes_utils.Tests.test_bbox_to_from_fast_rcnn Coverage Results" MODIFIED="1587772960423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/06" />
+    <SUITE FILE_PATH="coverage/DL$tagger_cle_cnn.coverage" NAME="tagger_cle_cnn Coverage Results" MODIFIED="1589036997977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/08" />
+    <SUITE FILE_PATH="coverage/DL$monte_carlo.coverage" NAME="monte_carlo Coverage Results" MODIFIED="1593182592631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/11" />
+    <SUITE FILE_PATH="coverage/DL$pca_first.coverage" NAME="pca_first Coverage Results" MODIFIED="1583597961450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_pca_first" />
+    <SUITE FILE_PATH="coverage/DL$mnist_multiple.coverage" NAME="mnist_multiple Coverage Results" MODIFIED="1589502025865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/08" />
+    <SUITE FILE_PATH="coverage/DL$mnist_training.coverage" NAME="mnist_training Coverage Results" MODIFIED="1589646941527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/02" />
+    <SUITE FILE_PATH="coverage/DL$lemmatizer_competition.coverage" NAME="lemmatizer_competition Coverage Results" MODIFIED="1593185027998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/09" />
+    <SUITE FILE_PATH="coverage/DL$gan.coverage" NAME="gan Coverage Results" MODIFIED="1591040708015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/npfl114/labs/10" />
   </component>
 </project>

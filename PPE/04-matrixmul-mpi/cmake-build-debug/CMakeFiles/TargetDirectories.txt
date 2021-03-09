@@ -1,0 +1,3 @@
+/Users/kuky/Desktop/MFF2/PPE/04-matrixmul-mpi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kuky/Desktop/MFF2/PPE/04-matrixmul-mpi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kuky/Desktop/MFF2/PPE/04-matrixmul-mpi/cmake-build-debug/CMakeFiles/matrix_mult.dir

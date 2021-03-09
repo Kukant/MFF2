@@ -1,0 +1,12 @@
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/bin/Debug/netcoreapp3.1/dns-netcore.deps.json
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/bin/Debug/netcoreapp3.1/dns-netcore.runtimeconfig.json
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/bin/Debug/netcoreapp3.1/dns-netcore.runtimeconfig.dev.json
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/bin/Debug/netcoreapp3.1/dns-netcore.dll
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/bin/Debug/netcoreapp3.1/dns-netcore.pdb
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/obj/Debug/netcoreapp3.1/dns-netcore.csprojAssemblyReference.cache
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/obj/Debug/netcoreapp3.1/dns-netcore.csproj.CoreCompileInputs.cache
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/obj/Debug/netcoreapp3.1/dns-netcore.AssemblyInfoInputs.cache
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/obj/Debug/netcoreapp3.1/dns-netcore.AssemblyInfo.cs
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/obj/Debug/netcoreapp3.1/dns-netcore.dll
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/obj/Debug/netcoreapp3.1/dns-netcore.pdb
+/Users/kuky/Desktop/MFF2/PPE/05-dns-netcore/obj/Debug/netcoreapp3.1/dns-netcore.genruntimeconfig.cache

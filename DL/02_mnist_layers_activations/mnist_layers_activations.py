@@ -83,7 +83,6 @@ if __name__ == "__main__":
     tb_callback.on_epoch_end(1, {"val_test_" + metric: value for metric, value in zip(model.metrics_names, test_logs)})
 
     # TODO: Write test accuracy as percentages rounded to two decimal places.
-    accuracy = hist.history['accuracy'][-1]
-    print("{:.2f}".format(100 * accuracy))
+    accuracy = test_logs[-1]
     with open("mnist_layers_activations.out", "w") as out_file:
         print("{:.2f}".format(100 * accuracy), file=out_file)

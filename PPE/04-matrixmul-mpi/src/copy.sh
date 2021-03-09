@@ -1,0 +1,1 @@
+scp -P 42222 main.cpp write_utils.hpp Makefile s_kukant@gpulab.ms.mff.cuni.cz:~/04/

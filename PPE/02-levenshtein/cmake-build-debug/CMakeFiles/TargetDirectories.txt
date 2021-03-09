@@ -1,0 +1,4 @@
+/Users/kuky/Desktop/MFF2/PPE/02-levenshtein/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kuky/Desktop/MFF2/PPE/02-levenshtein/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kuky/Desktop/MFF2/PPE/02-levenshtein/cmake-build-debug/CMakeFiles/levser.dir
+/Users/kuky/Desktop/MFF2/PPE/02-levenshtein/cmake-build-debug/CMakeFiles/levpar.dir

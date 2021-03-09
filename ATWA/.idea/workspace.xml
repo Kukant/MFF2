@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="184ba6a5-7005-40ba-8882-4ef03238395a" name="Default Changelist" comment="" />
+    <list default="true" id="184ba6a5-7005-40ba-8882-4ef03238395a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/.idea/start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/.idea/dictionaries/kuky.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DL/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/.idea/PPE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPE/02-levenshtein/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/.idea/start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/hippo01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/hippo02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/hippo03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/hippo04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/hippo05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/hippo06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/kitten01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/kitten02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/kitten03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/kitten04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/kitten05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/kitten06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/kitten07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/kitten08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/kitten09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/puppy01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/puppy02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/puppy03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/puppy04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/puppy05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/puppy06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/puppy07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/puppy08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/imgs/puppy09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DL/02_mnist_layers_activations/mnist_layers_activations.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DL/02_mnist_layers_activations/mnist_layers_activations.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +58,15 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YougMc68ieRJGVhRNMjj8EA8ZE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,14 +74,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Built-in Web Server.NIM">
+    <configuration name="NIM" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/nim" host="127.0.0.1" port="8000">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/erastotenes/solution.php" scriptParameters="10">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="args" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/cli-arguments/fix-links.php" scriptParameters="--base bass --no_links test.html out.html">
       <CommandLine>
         <PhpTestInterpreterSettings>
           <option name="interpreterName" value="PHP 7.3" />
@@ -49,6 +110,20 @@
       </CommandLine>
       <method v="2" />
     </configuration>
+    <configuration name="blah" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="/usr/local/bin/sass" />
+      <option name="SCRIPT_OPTIONS" value="style.scss style.css" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/start" />
+      <option name="INTERPRETER_PATH" value="/usr/local/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Built-in Web Server.NIM" />
+      <item itemvalue="PHP Script.solution.php" />
+      <item itemvalue="PHP Script.args" />
+      <item itemvalue="Shell Script.blah" />
+    </list>
   </component>
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
@@ -82,6 +157,10 @@
       <workItem from="1583621382924" duration="63000" />
       <workItem from="1583621458441" duration="286000" />
       <workItem from="1583625606211" duration="5628000" />
+      <workItem from="1584350978663" duration="3638000" />
+      <workItem from="1584372049635" duration="8865000" />
+      <workItem from="1586110436846" duration="10285000" />
+      <workItem from="1586376159471" duration="1972000" />
     </task>
     <servers />
   </component>
@@ -93,26 +172,42 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="427" y="198" key="#CLI_Interpreters/0.23.1680.1027@0.23.1680.1027" timestamp="1583621589608" />
-    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583659192843">
+    <state x="490" y="134" key="#PHP" timestamp="1586111680058">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583659192843" />
-    <state width="1638" height="385" key="GridCell.Tab.0.bottom" timestamp="1583659480685">
+    <state x="490" y="134" key="#PHP/0.23.1680.1027@0.23.1680.1027" timestamp="1586111680058" />
+    <state x="535" y="265" key="#Unnamed" timestamp="1584352096117">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="385" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583659480685" />
-    <state width="1638" height="385" key="GridCell.Tab.0.center" timestamp="1583659480684">
+    <state x="535" y="265" key="#Unnamed/0.23.1680.1027@0.23.1680.1027" timestamp="1584352096117" />
+    <state x="290" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586111712300">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="385" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583659480684" />
-    <state width="1638" height="385" key="GridCell.Tab.0.left" timestamp="1583659480684">
+    <state x="290" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1586111712300" />
+    <state x="685" y="433" key="#com.intellij.tools.ToolEditorDialog" timestamp="1584352167831">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="385" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583659480684" />
-    <state width="1638" height="385" key="GridCell.Tab.0.right" timestamp="1583659480684">
+    <state x="685" y="433" key="#com.intellij.tools.ToolEditorDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1584352167831" />
+    <state width="1638" height="187" key="GridCell.Tab.0.bottom" timestamp="1586383595897">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="385" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583659480684" />
+    <state width="1638" height="187" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1586383595897" />
+    <state width="1638" height="187" key="GridCell.Tab.0.center" timestamp="1586383595896">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="187" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1586383595896" />
+    <state width="1638" height="187" key="GridCell.Tab.0.left" timestamp="1586383595896">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="187" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1586383595896" />
+    <state width="1638" height="187" key="GridCell.Tab.0.right" timestamp="1586383595896">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="187" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1586383595896" />
+    <state x="649" y="169" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1584352177930">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="649" y="169" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.23.1680.1027@0.23.1680.1027" timestamp="1584352177930" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

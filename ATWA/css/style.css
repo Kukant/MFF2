@@ -1,0 +1,176 @@
+@keyframes jiggle {
+  0% {
+    transform: rotate(0deg) scale(1);
+  }
+  25% {
+    transform: rotate(15deg) scale(1.1);
+  }
+  75% {
+    transform: rotate(-15deg) scale(1.1);
+  }
+  100% {
+    transform: rotate(0deg) scale(1);
+  }
+}
+body {
+  margin: 0;
+  font: 12pt Calibri;
+  background-color: #ccc;
+  background: linear-gradient(90deg, #aaa, #eee 40%, #aaa);
+}
+
+/* The main headline of the page */
+header h1 {
+  width: 520px;
+  height: 79px;
+  line-height: 79px;
+  font-size: 32pt;
+  text-shadow: 0px 0px 10px #cc9;
+  color: #444;
+  border-bottom: 1px solid #444;
+  padding: 0;
+  margin: 0 auto;
+}
+
+/* The main contents of the page */
+main {
+  overflow: hidden;
+  padding: 0;
+}
+main div {
+  width: 260px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+/* Footer of the page */
+footer {
+  position: absolute;
+  top: 1000px;
+  left: 50%;
+}
+footer p {
+  position: relative;
+  left: -50%;
+  width: 1040px;
+  height: 31px;
+  line-height: 31px;
+  font-size: 10pt;
+  text-align: center;
+  color: #777777;
+  border-top: 1px solid #444;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* This section represents one tab -- one category of photos */
+section.tab {
+  padding: 0;
+  margin: 0 auto;
+  width: 260px;
+  /* Inner section holds the figures */
+}
+section.tab h2 {
+  color: #444;
+  font-size: 24pt;
+  padding: 10px 40px;
+  margin: 0;
+}
+section.tab:target section, section.tab:last-of-type section {
+  transform: perspective(400px) rotate3d(0, 1, 0, 0deg);
+  opacity: 1;
+  z-index: 10;
+}
+section.tab section, section.tab:target ~ .tab:last-of-type {
+  position: absolute;
+  transition: transform 1s ease, opacity 1s;
+  transform: perspective(400px) rotate3d(0, 1, 0, 70deg);
+  opacity: 0;
+  transform-origin: bottom left;
+  font-size: 0;
+  /* Figure is a photograph with its caption */
+}
+section.tab section figure, section.tab:target ~ .tab:last-of-type figure {
+  font-size: 14px;
+  display: inline-block;
+  width: 200px;
+  border: 10px solid white;
+  overflow: hidden;
+  background-color: white;
+  margin: 20px;
+  box-shadow: 2px 2px 7px #777;
+}
+section.tab section figure:hover, section.tab:target ~ .tab:last-of-type figure:hover {
+  animation-name: jiggle;
+  animation-duration: 1s;
+}
+section.tab section figure img, section.tab:target ~ .tab:last-of-type figure img {
+  width: 200px;
+  margin: 0;
+}
+section.tab section figure figcaption, section.tab:target ~ .tab:last-of-type figure figcaption {
+  width: 200px;
+  text-align: center;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+section.tab:target + nav, section.tab:last-of-type + nav {
+  display: block;
+}
+section.tab:target + nav a, section.tab:last-of-type + nav a {
+  z-index: 12;
+}
+
+section.tab + nav, .tab:target ~ .tab:last-of-type + nav {
+  display: none;
+}
+section.tab + nav a, .tab:target ~ .tab:last-of-type + nav a {
+  position: fixed;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-decoration: none;
+  font-size: 64pt;
+  font-weight: bold;
+  color: #444;
+  text-align: center;
+  opacity: 0.3;
+  background-color: rgba(128, 128, 128, 0);
+}
+section.tab + nav a[rel=prev], .tab:target ~ .tab:last-of-type + nav a[rel=prev] {
+  left: 26px;
+}
+section.tab + nav a[rel=next], .tab:target ~ .tab:last-of-type + nav a[rel=next] {
+  right: 0;
+}
+section.tab + nav a[rel=prev]:hover, .tab:target ~ .tab:last-of-type + nav a[rel=prev]:hover {
+  background: linear-gradient(-90deg, rgba(128, 128, 128, 0), rgba(128, 128, 128, 0.8));
+}
+section.tab + nav a[rel=next]:hover, .tab:target ~ .tab:last-of-type + nav a[rel=next]:hover {
+  background: linear-gradient(90deg, rgba(128, 128, 128, 0), rgba(128, 128, 128, 0.8));
+}
+
+@media (min-width: 576px) {
+  section.tab, main div {
+    width: 480px;
+  }
+}
+@media (min-width: 768px) {
+  section.tab, main div {
+    width: 672px;
+  }
+}
+@media (min-width: 992px) {
+  section.tab, main div {
+    width: 896px;
+  }
+}
+@media (min-width: 1200px) {
+  section.tab, main div {
+    width: 1104px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

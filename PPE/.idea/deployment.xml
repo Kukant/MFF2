@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" compareModeInSync="TEXT">
+    <serverData>
+      <paths name="gpulab (b38a79fc-16ce-4f92-8fa8-bed835ccde8f)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/home/s_kukant" local="$PROJECT_DIR$/02-levenshtein" />
+            <mapping deploy="/mnt/home/s_kukant/03-potential" local="$PROJECT_DIR$/03-potential" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
